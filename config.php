@@ -1,8 +1,8 @@
 <?php
 error_reporting(0);
-define('DB_NAME', 'heroku_bf071c432fea31f');
-define('DB_USER', 'b2dd41bd5b292d');
-define('DB_PASSWORD', '87ed0380');
+define('DB_NAME', 'heroku_4d434d55c02adba');
+define('DB_USER', 'b21551e006b3d0');
+define('DB_PASSWORD', 'f68660a9');
 define('DB_HOST', 'us-cdbr-iron-east-05.cleardb.net');
  
 // Create connection
