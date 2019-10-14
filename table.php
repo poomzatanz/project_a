@@ -1,4 +1,4 @@
-<?php include_once('config.php'); include('paginator.class.php'); ?>
+<?php include('config.php'); include('paginator.class.php'); ?>
 <!doctype html>
 <html lang="en">
 
