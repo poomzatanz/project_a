@@ -301,3 +301,4 @@ $(".custom-option").on("click", function() {
 <script src="js/custom.js"></script>
 </body>
 </html>
+<?php $db->close(); ?>

@@ -1,5 +1,6 @@
 <?php
 error_reporting(0);
+ini_set('max_execution_time', 300);
 define('DB_NAME', 'heroku_4d434d55c02adba');
 define('DB_USER', 'b21551e006b3d0');
 define('DB_PASSWORD', 'f68660a9');
